@@ -1,0 +1,23 @@
+
+.square{
+
+    width: 100px;
+    height: 100px;
+    border: solid black;
+}
+ 
+.grid{
+    
+    display: flex;
+
+    justify-content: center;
+    align-content: center;
+    width: 300px;
+    height: 300px;
+} 
+
+.mole {
+
+    background-image: url('https://www.nicepng.com/png/detail/65-653763_pikachu-pokemon-pokmon-cute-kawaii-pixel-pixelart-pikachu.png');
+    background-size: cover;
+}
